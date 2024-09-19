@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates data
-# Author: Rohan Alexander
+# Author: Veyasan Ragulan
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Contact: veyasan.ragulan@utoronto.ca
 # License: MIT
 # Pre-requisites: None
 # Any other information needed? None
@@ -32,7 +32,7 @@ data <-
       ),
       origin = "1970-01-01"
     ),
-    number_of_marriage = rpois(n = number_of_dates, lambda = 15)
+    number_of_marriage = rpois(n = number_of_dates, lambda = 10)
   )
 
 
