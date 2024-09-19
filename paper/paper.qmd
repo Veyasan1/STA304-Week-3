@@ -1,12 +1,12 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "COVID-19's impact on marriages across the City of Toronto"
+subtitle: "STA304 Week 3"
 author: 
-  - Rohan Alexander
+  - Veyasan Ragulan
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "."
 format: pdf
 number-sections: true
 bibliography: references.bib
