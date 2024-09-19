@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+This repo is a submission of data collected from Open Data Toronto pertaining to marriage licenses award across the City of Toronto.
 
 
 ## File Structure
