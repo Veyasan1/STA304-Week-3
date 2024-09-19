@@ -2,7 +2,7 @@
 # Purpose: Simulates data
 # Author: Veyasan Ragulan
 # Date: 19 September 2024
-# Contact: veyasan.ragulan@utoronto.ca
+# Contact: veyasan.ragulan@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: None
 # Any other information needed? None
